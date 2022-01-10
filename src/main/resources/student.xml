@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<class>
+    <student id="753951">
+        <firstname>John</firstname>
+        <lastname>Smith</lastname>
+        <subject>Science</subject>
+        <grade>A</grade>
+    </student>
+    <student id="159357">
+        <firstname>Jenny</firstname>
+        <lastname>Marshall</lastname>
+        <subject>Science</subject>
+        <grade>A+</grade>
+    </student>
+    <student id="852456">
+        <firstname>Chrissy</firstname>
+        <lastname>Nole</lastname>
+        <subject>Science</subject>
+        <grade>B</grade>
+    </student>
+    <student id="654258">
+        <firstname>David</firstname>
+        <lastname>Myers</lastname>
+        <subject>Science</subject>
+        <grade>C</grade>
+    </student>
+    <student id="842697">
+        <firstname>Nicole</firstname>
+        <lastname>Jones</lastname>
+        <subject>Science</subject>
+        <grade>B</grade>
+    </student>
+</class>

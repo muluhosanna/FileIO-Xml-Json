@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Staff>
+    <Person id="200">
+        <FirstName>First</FirstName>
+        <LastName>One</LastName>
+        <Address country="US">
+            <Street>121 Main St</Street>
+            <City>Somewhere</City>
+            <State>KS</State>
+        </Address>
+        <Email>someone@email.com</Email>
+    </Person>
+    <Person id="201">
+        <FirstName>Second</FirstName>
+        <LastName>Two</LastName>
+        <Address country="US">
+            <Street>122 Main St</Street>
+            <City>Somewhere</City>
+            <State>KS</State>
+        </Address>
+        <Email>sometwo@email.com</Email>
+    </Person>
+    <Person id="202">
+        <FirstName>Third</FirstName>
+        <LastName>Three</LastName>
+        <Address country="US">
+            <Street>123 Main St</Street>
+            <City>Somewhere</City>
+            <State>KS</State>
+        </Address>
+        <Email>somethree@email.com</Email>
+    </Person>
+</Staff>
