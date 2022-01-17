@@ -15,7 +15,7 @@ public class Test {
         //readArray();
         // writingArray();
         // copying();
-        // generatingPrimenumbers();
+        generatingPrimenumbers();
         //copyingAndReading();
        // leapYearTask2();
 

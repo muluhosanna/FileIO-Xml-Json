@@ -4,9 +4,22 @@ import java.util.ArrayList;
 
 public class XmlSample {
     public static void main(String[] args) {
-         domParcerSample();
+        //domParcerSample();
         // domModifySample();
       //  saxParcerSample();
+       //examplesOnversion2();
+
+    }
+    public static void examplesOnversion2(){
+        Module3_XmlVersion2 moduleVersion = new Module3_XmlVersion2();
+        moduleVersion.domRead();
+
+
+
+
+
+
+
     }
 
     static void domParcerSample() {

@@ -16,7 +16,7 @@ public class XmlDemo {
 
         DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
         DocumentBuilder documentBuilder = factory.newDocumentBuilder();
-        Document document = documentBuilder.parse(ClassLoader.getSystemResourceAsStream("xml/DriversLicense.xml"));
+        Document document = documentBuilder.parse(ClassLoader.getSystemResourceAsStream("DriversLicense.xml"));
         DriversLicense license = new DriversLicense();
 
         NodeList numberList = document.getElementsByTagName("Number");

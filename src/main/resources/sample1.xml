@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+    <student1 id="200">
+    <firstName>chala</firstName>
+    <latName>kumlachew</latName>
+    <email>hrx@gmail.com</email>
+    <phonenumber>123456</phonenumber>
+    <gender>male</gender>
+        <address>
+            <Street>999 Nclinton st</Street>
+            <City>olathe</City>
+            <State>Ks</State>
+            <Zipcode>66061</Zipcode>
+        </address>
+</student1>
+    <student2>
+        <firstName>ketema</firstName>
+        <latName>sahilu</latName>
+        <email>ha200@gmail.com</email>
+        <phonenumber>12345645</phonenumber>
+        <gender>male</gender>
+        <address>
+            <Street>997 Nclinton st</Street>
+            <City>olathe</City>
+            <State>Ks</State>
+            <Zipcode>66061</Zipcode>
+        </address>
+
+    </student2>
+    <student3>
+        <firstName>ayele</firstName>
+        <latName>kassa</latName>
+        <email>mki@gmail.com</email>
+        <phonenumber>123456</phonenumber>
+        <gender>male</gender>
+        <address>
+            <Street>998 Nclinton st</Street>
+            <City>olathe</City>
+            <State>Ks</State>
+            <Zipcode>66061</Zipcode>
+        </address>
+
+    </student3>
+    <student4>
+        <firstName>mezgebu</firstName>
+        <latName>tesema</latName>
+        <email>900mk@gmail.com</email>
+        <phonenumber>44673</phonenumber>
+        <gender>female</gender>
+        <address>
+            <Street>998 Nclinton st</Street>
+            <City>Olathe</City>
+            <State>Ks</State>
+            <Zipcode>66061</Zipcode>
+        </address>
+    </student4>
+    </person>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<session3>
+    <state>
+        <name >Alaska</name>
+        <abbrivation>Ak</abbrivation>
+        <year>anuary 3, 1959</year>
+        <birdName>Willow ptarmigan</birdName>
+    </state>
+    <state>
+        <name >Alabama</name>
+        <abbrivation>AL</abbrivation>
+        <year>Tuesday, December 14, 1819</year>
+        <birdName>Yellowhammer</birdName>
+    </state>
+    <state>
+        <name >American Samoa</name>
+        <abbrivation></abbrivation>
+        <year></year>
+        <birdName>none</birdName>
+    </state>
+    <state>
+        <name>Arizona</name>
+        <abbrivation>AZ</abbrivation>
+        <year>February 14, 1912</year>
+        <birdName>Cactus wren</birdName>
+    </state>
+    <state>
+        <name>Arkansas</name>
+        <abbrivation>AR</abbrivation>
+        <year>June 15, 1836</year>
+        <birdName>Northern mockingbird</birdName>
+    </state>
+    <state>
+        <name>California</name>
+        <abbrivation>CA</abbrivation>
+        <year>Tuesday, August 1, 1876</year>
+        <birdName>California quail</birdName>
+    </state>
+    <state>
+        <name>Colorado</name>
+        <abbrivation>CO</abbrivation>
+        <year>Tuesday, August 1, 1876</year>
+        <birdName>Lark bunting</birdName>
+    </state>
+    <state>
+        <name>Connecticut</name>
+        <abbrivation>CT</abbrivation>
+        <year>Wednesday, January 9, 1788 </year>
+        <birdName>American robin</birdName>
+    </state>
+    <state>
+        <name>Delaware</name>
+        <abbrivation>DE</abbrivation>
+        <year>December 7, 1787</year>
+        <birdName>Delaware Blue Hen</birdName>
+    </state>
+
+    <state>
+        <name>District of Columbia</name>
+        <abbrivation>DC</abbrivation>
+        <year></year>
+        <birdName>Wood thrush</birdName>
+    </state>
+    <state>
+        <name>Florida</name>
+        <abbrivation>FL</abbrivation>
+        <year>March 3, 1845</year>
+        <birdName>Northern mockingbird</birdName>
+    </state>
+
+    <state>
+        <name>Georgia</name>
+        <abbrivation>GA</abbrivation>
+        <year>Wednesday, January 2, 1788</year>
+        <birdName>Brown thrasher</birdName>
+    </state>
+    <state>
+        <name>Idaho</name>
+        <abbrivation>ID</abbrivation>
+        <year>July 3, 1890</year>
+        <birdName>Mountain bluebird</birdName>
+    </state>
+    <state>
+        <name>Illinois</name>
+        <abbrivation>IL</abbrivation>
+        <year>	December 3, 1818</year>
+        <birdName>Northern cardinal</birdName>
+    </state>
+    <state>
+        <name>Indiana</name>
+        <abbrivation>IN</abbrivation>
+        <year>December 11, 1816</year>
+        <birdName>Northern cardinal</birdName>
+    </state>
+    <state>
+        <name>Iowa</name>
+        <abbrivation>IA</abbrivation>
+        <year>December 28, 1846</year>
+        <birdName>Eastern goldfinch</birdName>
+    </state>
+    <state>
+        <name>Kansas</name>
+        <abbrivation>KS</abbrivation>
+        <year>Tuesday, January 29, 1861</year>
+        <birdName>Western meadowlark</birdName>
+    </state>
+    <state>
+        <name>Kentucky</name>
+        <abbrivation>KY</abbrivation>
+        <year>June 1, 1792</year>
+        <birdName>Northern cardinal</birdName>
+    </state>
+    v<state>
+    <name>Louisiana</name>
+    <abbrivation>LA</abbrivation>
+    <year>April 30, 1812</year>
+    <birdName>Brown pelican</birdName>
+</state>
+    <state>
+        <name>Maine</name>
+        <abbrivation>ME</abbrivation>
+        <year>Wednesday, March 15, 1820</year>
+        <birdName>Chickadee</birdName>
+    </state>
+    <state>
+        <name>Maryland</name>
+        <abbrivation>MD</abbrivation>
+        <year>Monday, April 28, 1788 </year>
+        <birdName>	Baltimore oriole</birdName>
+    </state>
+    <state>
+        <name>Massachusetts</name>
+        <abbrivation>MA</abbrivation>
+        <year>February 6, 1788</year>
+        <birdName>Black-capped chickadee</birdName>
+    </state>
+    <state>
+        <name>Michigan</name>
+        <abbrivation>MI</abbrivation>
+        <year>January 26, 1837</year>
+        <birdName>American robin</birdName>
+    </state>
+    <state>
+        <name>Minnesota</name>
+        <abbrivation>MN</abbrivation>
+        <year>May 11, 1858</year>
+        <birdName>Northern mockingbird</birdName>
+    </state>
+    <state>
+        <name>Missouri</name>
+        <abbrivation>MO</abbrivation>
+        <year>August 10, 1821</year>
+        <birdName>Eastern bluebird</birdName>
+    </state>
+    <state>
+        <name>Montana</name>
+        <abbrivation>MT</abbrivation>
+        <year>November 8, 1889</year>
+        <birdName>Western meadowlark</birdName>
+    </state>
+    <state>
+        <name>Nebraska</name>
+        <abbrivation>NE</abbrivation>
+        <year>March 1, 1867</year>
+        <birdName>Western meadowlark</birdName>
+    </state>
+    <state>
+        <name>Nevada</name>
+        <abbrivation>NV</abbrivation>
+        <year>October 31, 1864</year>
+        <birdName>Mountain bluebird</birdName>
+    </state>
+    <state>
+        <name>New Hampshire</name>
+        <abbrivation>NH</abbrivation>
+        <year></year>
+        <birdName>Purple finch</birdName>
+    </state>
+    <state>
+        <name>New Jersey</name>
+        <abbrivation>NJ</abbrivation>
+        <year>Tuesday, December 18, 1787</year>
+        <birdName>Eastern goldfinch</birdName>
+    </state>
+    <state>
+        <name>New Mexico</name>
+        <abbrivation>NM</abbrivation>
+        <year>June 21, 1788</year>
+        <birdName>Greater roadrunner</birdName>
+    </state>
+    <state>
+        <name>New York</name>
+        <abbrivation>NY</abbrivation>
+        <year>Saturday, July 26, 1788</year>
+        <birdName>Eastern bluebird</birdName>
+    </state>
+    <state>
+        <name>North Carolina</name>
+        <abbrivation>NC</abbrivation>
+        <year></year>
+        <birdName>Northern cardinal</birdName>
+    </state>
+    <state>
+        <name>North Dakota</name>
+        <abbrivation>ND</abbrivation>
+        <year></year>
+        <birdName>North Dakota	Western meadowlark</birdName>
+    </state>
+    <state>
+        <name>Northern Mariana Islands</name>
+        <abbrivation>November 21, 1789</abbrivation>
+        <year></year>
+        <birdName>Mariana fruit-dove</birdName>
+    </state>
+    <state>
+        <name>Ohio</name>
+        <abbrivation>OH</abbrivation>
+        <year>March 1, 1803</year>
+        <birdName>Northern cardinal</birdName>
+    </state>
+    <state>
+        <name>Oklahoma</name>
+        <abbrivation>OK</abbrivation>
+        <year>November 16, 1907</year>
+        <birdName>Scissor-tailed flycatcher</birdName>
+    </state>
+    <state>
+        <name>Oregon</name>
+        <abbrivation>OR</abbrivation>
+        <year>February 14, 1859</year>
+        <birdName>Western meadowlark</birdName>
+    </state>
+    <state>
+        <name>Pennsylvania</name>
+        <abbrivation>PA</abbrivation>
+        <year>December 12, 1787</year>
+        <birdName>	Ruffed Grouse</birdName>
+    </state>
+
+
+    <state>
+        <name>South Carolina</name>
+        <abbrivation>SC</abbrivation>
+        <year>November 2, 1889</year>
+        <birdName>	Carolina wren</birdName>
+    </state>
+    <state>
+        <name>South Dakota</name>
+        <abbrivation>SD</abbrivation>
+        <year>November 2, 1889</year>
+        <birdName>Ring-necked pheasant</birdName>
+    </state>
+    <state>
+        <name>Tennessee</name>
+        <abbrivation>TN</abbrivation>
+        <year>June 1, 1796</year>
+        <birdName>Northern mockingbird</birdName>
+    </state>
+    <state>
+        <name>Texas</name>
+        <abbrivation>TX</abbrivation>
+        <year>December 29, 1845</year>
+        <birdName>Northern mockingbird</birdName>
+    </state>
+
+    <state>
+        <name>Vermont</name>
+        <abbrivation>VT</abbrivation>
+        <year>March 4, 1791</year>
+        <birdName>	Hermit thrush</birdName>
+    </state>
+    <state>
+        <name>Virginia</name>
+        <abbrivation>VR</abbrivation>
+        <year>Wednesday, June 25, 1788 </year>
+        <birdName>Northern cardinal</birdName>
+    </state>
+    <state>
+        <name>Washington</name>
+        <abbrivation>WA</abbrivation>
+        <year>November 11, 1889</year>
+        <birdName>Willow goldfinch</birdName>
+    </state>
+    <state>
+        <name>West Virginia</name>
+        <abbrivation>WV</abbrivation>
+        <year>June 20, 1863</year>
+        <birdName>Northern cardinal</birdName>
+    </state>
+    <state>
+        <name>Wisconsin</name>
+        <abbrivation>WI</abbrivation>
+        <year>May 29, 1848</year>
+        <birdName>	American robin</birdName>
+    </state>
+    <state>
+        <name>Wyoming</name>
+        <abbrivation>WY</abbrivation>
+        <year>November 11, 1889</year>
+        <birdName>Wyoming	Western meadowlark</birdName>
+    </state>
+</session3>

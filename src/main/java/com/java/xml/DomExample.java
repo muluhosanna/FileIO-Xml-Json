@@ -49,6 +49,7 @@ public class DomExample {
             for(int i = 0; i < nList.getLength(); i++) {
                 Node nNode = nList.item(i);
                 Element staffElement = (Element) nNode;
+               // if (nNode instanceof Element)
                 if (nNode.getNodeType() == Node.ELEMENT_NODE) {
                     String id = staffElement.getAttribute("id");
 
@@ -72,7 +73,7 @@ public class DomExample {
                             .item(0).getTextContent();
 
                     /* Print the results to the console */
-                    System.out.println("Current Element :" + nNode.getNodeName());
+                   System.out.println("Current Element :" + nNode.getNodeName());
                     System.out.println("Person Id : " + id);
                     System.out.println("First Name : " + firstName);
                     System.out.println("Last Name : " + lastName);

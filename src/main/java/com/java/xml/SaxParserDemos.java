@@ -16,5 +16,6 @@ public class SaxParserDemos {
 		System.out.println(handler.getDriversLicense().getFirstName());
 		System.out.println(handler.getDriversLicense().getLastName());
 		System.out.println(handler.getDriversLicense().getNumber());
+		System.out.println();
 	}
 }
