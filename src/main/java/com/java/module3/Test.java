@@ -1,11 +1,13 @@
 package com.java.module3;
 
+import org.json.simple.parser.ParseException;
+
 import java.io.*;
 import java.nio.file.Files;
 import java.util.Scanner;
 
 public class Test {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, ParseException {
         //Test test = new Test();
         // test.byteArray();
         //link();
@@ -15,9 +17,25 @@ public class Test {
         //readArray();
         // writingArray();
         // copying();
-        generatingPrimenumbers();
+      // generatingPrimenumbers();
         //copyingAndReading();
        // leapYearTask2();
+       // examplesOnJsonTest();
+       // exampleOnCreate();
+
+
+
+
+    }
+    public static void exampleOnCreate() throws IOException, ParseException {
+        CreateJsonFile createJsonFile = new CreateJsonFile();
+        createJsonFile.exampleOnAlbum();
+    }
+    public static void examplesOnJsonTest() throws IOException {
+        Module3_JsonFiles jsonFile = new Module3_JsonFiles();
+        jsonFile.encodeJsonExample();
+       // jsonFile.decodeJsonExample();
+
 
 
     }
