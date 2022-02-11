@@ -13,12 +13,12 @@ public class Test {
         //link();
         // anotherText();
         // web();
-        //bufferedStaff();
+       // bufferedStaff();
         //readArray();
         // writingArray();
         // copying();
-      // generatingPrimenumbers();
-        //copyingAndReading();
+       generatingPrimenumbers();
+       // copyingAndReading();
        // leapYearTask2();
        // examplesOnJsonTest();
        // exampleOnCreate();
@@ -95,8 +95,8 @@ public class Test {
 
     public static void bufferedStaff() throws IOException {
         File obj = new File("/Users/mt093925/Desktop/link.txt");
-        FileInputStream fin = new FileInputStream(obj);
-        BufferedInputStream bufeferIn = new BufferedInputStream(fin);
+        //FileInputStream fin = ;
+        BufferedInputStream bufeferIn = new BufferedInputStream(new FileInputStream(obj));
         int t;
         while ((t = bufeferIn.read()) != -1) {
             System.out.print((char) bufeferIn.read());
@@ -206,7 +206,7 @@ public class Test {
         ByteArrayInputStream byteArrayOutPut = new ByteArrayInputStream(b1);
         int x = byteArrayOutPut.available();
         for (int i = 0; i < x; i++) {
-            System.out.println(((char) byteArrayOutPut.read()));
+            System.out.print(((char) byteArrayOutPut.read()));
         }
         System.out.println("It is copied from session1");
 

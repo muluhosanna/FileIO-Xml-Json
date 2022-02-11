@@ -26,8 +26,8 @@ public class SaxExample {
 
     void modifySax() {
         try {
-            File myStudent = new File(Objects.requireNonNull(getClass().getClassLoader()
-                    .getResource("students.xml")).getFile());
+            File myStudent = new File(getClass().getClassLoader()
+                    .getResource("students.xml").getFile());
             SAXParserFactory factory = SAXParserFactory.newInstance();
             SAXParser parser = factory.newSAXParser();
             SaxModifyHandler handler = new SaxModifyHandler();

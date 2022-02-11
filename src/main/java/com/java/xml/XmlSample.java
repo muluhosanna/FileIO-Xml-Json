@@ -2,12 +2,15 @@ package com.java.xml;
 
 import java.util.ArrayList;
 
+import static com.java.xml.XmlSample.saxExample;
+
 public class XmlSample {
     public static void main(String[] args) {
-        //domParcerSample();
+        domParcerSample();
         // domModifySample();
       //  saxParcerSample();
        //examplesOnversion2();
+       // saxExample();
 
     }
     public static void examplesOnversion2(){
@@ -19,6 +22,11 @@ public class XmlSample {
 
 
 
+
+    }
+    public static void saxExample(){
+        SaxExample example = new SaxExample();
+        example.modifySax();
 
     }
 

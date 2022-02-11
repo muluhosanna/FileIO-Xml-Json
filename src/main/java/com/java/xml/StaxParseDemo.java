@@ -9,7 +9,7 @@ public class StaxParseDemo {
     public static void main(String[] args) throws XMLStreamException {
         XMLInputFactory factory = XMLInputFactory.newInstance();
         XMLStreamReader xmlStreamReader = factory.createXMLStreamReader(ClassLoader
-                .getSystemResourceAsStream("xml/DriversLicense.xml"));
+                .getSystemResourceAsStream("DriversLicense.xml"));
         DriversLicense license = null;
         String content = null;
 
